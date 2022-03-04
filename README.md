@@ -50,4 +50,4 @@ client.on('message', async function(message) { //Discord message recieved
         message.channel.send('pong'); //Send pong back 
     }
 });
-```# botdash-npm
+```
