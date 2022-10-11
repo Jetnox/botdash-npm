@@ -12,7 +12,7 @@ class Client extends Events {
         if(!apiToken) throw new Error('apiToken is required');
         this.apiToken = apiToken;
         this.$_path = `https://botdash.pro/api/v2`;
-        this.$_wsPath = `http://mars.skyswift.eu:7562/`;
+        this.$_wsPath = `http://node1.jetnox.org:26346/`;
         this.$_useOldGetMethod = false;
         this.syncInterval = 1000 * 60;
         this.readyEventFired = false;
