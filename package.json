@@ -1,6 +1,6 @@
 {
     "name": "botdash.pro",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "description": "Create a dashboard for your discord bot",
     "main": "index.js",
     "scripts": {
